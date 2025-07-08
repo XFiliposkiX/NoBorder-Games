@@ -4,4 +4,4 @@
 
 #### To do:
 ##### Multi monitor support
-##### Fix random gaps
+##### ~Fix random gaps~
