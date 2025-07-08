@@ -3,5 +3,5 @@
 ### It's a free alternative for Borderless Gaming
 
 #### To do:
-#### Multi monitor support
-#### Fix random gaps
+##### Multi monitor support
+##### Fix random gaps
