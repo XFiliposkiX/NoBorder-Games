@@ -6,6 +6,7 @@
 ##### Multi monitor support
 ##### ~Fix random gaps~
 
+##### 11.04.2026
 NoBorder Games is getting archived its original purpose was to fix minecraft not supporting HDR natively, as of 9 April 2026 mojang added vulkan and HDR support.
 
 ##### 7.11.2026
